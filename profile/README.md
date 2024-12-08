@@ -76,14 +76,4 @@ https://www.erdcloud.com/d/PoKgPpyiHAvGwdsNA
 
 ---
 
-### Swagger Api
-
-#### Back : https://www.5ritang.store/api
-
-#### Coupon : https://www.5ritang.store/coupons/api
-
-#### Account : https://www.5ritang.store/auth
-
----
-
 # 개인별 구현 상세내역
