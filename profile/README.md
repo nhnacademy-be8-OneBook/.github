@@ -34,7 +34,7 @@
 - [FRONT](https://github.com/nhnacademy-be8-OneBook)
 - [COUPON](https://github.com/nhnacademy-be8-OneBook/)
 - [ACCOUNT](https://github.com/nhnacademy-be8-OneBook/)
-- [GATEWAY]https://github.com/nhnacademy-be8-OneBook/)
+- [GATEWAY](https://github.com/nhnacademy-be8-OneBook/)
 - [EUREKA](https://github.com/nhnacademy-be8-OneBook/)
 
 ---
