@@ -13,7 +13,7 @@
     <table>
       <thead>
         <tr>
-          <th><a href="https://github.com/"><img src="https://github.com/" width="100px" style="max-width: 100%;"><br>김선준</a></th>
+          <th><a href="https://github.com/kimseonj"><img src="https://github.com/kimseonj.png" width="100px" style="max-width: 100%;"><br>김선준</a></th>
           <th><a href="https://github.com/tnvs99"><img src="https://github.com/tnvs99.png" width="100px" style="max-width: 100%;"><br>김영훈</a></th>
           <th><a href="https://github.com/Joo-v7"><img src="https://github.com/Joo-v7.png" width="100px" style="max-width: 100%;"><br>김주혁</a></th>
           <th><a href="https://github.com/Hodu-moon"><img src="https://github.com/Hodu-moon.png" width="100px" style="max-width: 100%;"><br>문영호</a></th>
