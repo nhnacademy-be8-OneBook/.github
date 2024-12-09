@@ -31,8 +31,13 @@
 #  OneBook_Repository
 
 - [BACK](https://github.com/nhnacademy-be8-OneBook/)
-- [FRONT](https://github.com/nhnacademy-be8-OneBook)
+- [FRONT](https://github.com/nhnacademy-be8-OneBook/)
+- [BOOK](https://github.com/nhnacademy-be8-OneBook/)
+- [MEMBER](https://github.com/nhnacademy-be8-OneBook/)
+- [ORDER](https://github.com/nhnacademy-be8-OneBook/)
+- [CART](https://github.com/nhnacademy-be8-OneBook/)
 - [COUPON](https://github.com/nhnacademy-be8-OneBook/)
+- [POINT](https://github.com/nhnacademy-be8-OneBook/)
 - [ACCOUNT](https://github.com/nhnacademy-be8-OneBook/)
 - [GATEWAY](https://github.com/nhnacademy-be8-OneBook/)
 - [EUREKA](https://github.com/nhnacademy-be8-OneBook/)
