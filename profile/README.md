@@ -30,17 +30,17 @@
 
 #  OneBook_Repository
 
-- [BACK](https://github.com/nhnacademy-be8-OneBook/)
-- [FRONT](https://github.com/nhnacademy-be8-OneBook/)
-- [BOOK](https://github.com/nhnacademy-be8-OneBook/)
-- [MEMBER](https://github.com/nhnacademy-be8-OneBook/)
-- [ORDER](https://github.com/nhnacademy-be8-OneBook/)
-- [CART](https://github.com/nhnacademy-be8-OneBook/)
-- [COUPON](https://github.com/nhnacademy-be8-OneBook/)
-- [POINT](https://github.com/nhnacademy-be8-OneBook/)
+- [BACK](https://github.com/nhnacademy-be8-OneBook/Onebook-back)
+- [FRONT](https://github.com/nhnacademy-be8-OneBook/Onebook-front)
+- [BOOK](https://github.com/nhnacademy-be8-OneBook/Onebook-book)
+- [MEMBER](https://github.com/nhnacademy-be8-OneBook/Onebook-member)
+- [ORDER](https://github.com/nhnacademy-be8-OneBook/Onebook-order)
+- [CART](https://github.com/nhnacademy-be8-OneBook/Onebook-cart)
+- [COUPON](https://github.com/nhnacademy-be8-OneBook/Onebook-coupon)
+- [POINT](https://github.com/nhnacademy-be8-OneBook/Onebook-point)
 - [ACCOUNT](https://github.com/nhnacademy-be8-OneBook/account-api)
-- [GATEWAY](https://github.com/nhnacademy-be8-OneBook/)
-- [EUREKA](https://github.com/nhnacademy-be8-OneBook/)
+- [GATEWAY](https://github.com/nhnacademy-be8-OneBook/Onebook-gateway)
+- [EUREKA](https://github.com/nhnacademy-be8-OneBook/Onebook-eureka)
 
 ---
 
