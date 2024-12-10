@@ -30,7 +30,6 @@
 
 #  OneBook_Repository
 
-- [BACK](https://github.com/nhnacademy-be8-OneBook/Onebook-backapi)
 - [FRONT](https://github.com/nhnacademy-be8-OneBook/Onebook-frontapi)
 - [ACCOUNT](https://github.com/nhnacademy-be8-OneBook/Onebook-accountapi)
 - [TASK](https://github.com/nhnacademy-be8-OneBook/Onebook-taskapi)
