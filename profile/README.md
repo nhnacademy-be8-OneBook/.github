@@ -55,6 +55,17 @@ https://www.notion.so/1530b7d27c0d800aa5d0cbd22f36a830
 ---
 
 # CI/CD
+### Port
+front-api_1 : 8100
+front-api_2 : 8110
+
+gateway-api : 8200
+
+eureka-api : 8300
+
+account-api : 8400
+
+task-api : 8500
 
 ---
 
