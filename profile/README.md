@@ -125,3 +125,8 @@ https://www.notion.so/1530b7d27c0d800aa5d0cbd22f36a830
 ---
 
 # 개인별 구현 상세내역
+
+---
+## front template
+
+[front template 주황색 ](https://wpthemesgrid.com/themes/eshop/index4.html)
