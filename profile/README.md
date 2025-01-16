@@ -31,7 +31,7 @@
 #  OneBook_Repository
 
 - [FRONT](https://github.com/nhnacademy-be8-OneBook/Onebook-frontapi)
-- [ACCOUNT](https://github.com/nhnacademy-be8-OneBook/Onebook-accountapi)
+- [AUTHENTICATION](https://github.com/nhnacademy-be8-OneBook/Onebook-accountapi)
 - [TASK](https://github.com/nhnacademy-be8-OneBook/Onebook-taskapi)
 - [GATEWAY](https://github.com/nhnacademy-be8-OneBook/Onebook-gateway)
 - [EUREKA](https://github.com/nhnacademy-be8-OneBook/Onebook-eureka)
@@ -88,7 +88,7 @@ https://www.notion.so/1530b7d27c0d800aa5d0cbd22f36a830
   </tr>
 
   <tr>
-    <td>account-api</td>
+    <td>authentication-api</td>
     <td>8400</td>
     <td>8410</td>
   </tr>
