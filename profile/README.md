@@ -114,6 +114,7 @@ https://www.notion.so/1530b7d27c0d800aa5d0cbd22f36a830
 *Road Map*
 
 *Kanban*
+![image](https://github.com/user-attachments/assets/1333a682-235b-4e77-8388-62a3816f9927)
 
 ---
 
