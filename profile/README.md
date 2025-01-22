@@ -105,6 +105,9 @@ https://www.notion.so/1530b7d27c0d800aa5d0cbd22f36a830
 # Project Management
 
 ### Scrum
+![image](https://github.com/user-attachments/assets/4436df46-d967-418b-9cdd-e1ea55b5b7eb)
+
+![image](https://github.com/user-attachments/assets/98c411e9-1629-4e1e-b36a-d6be5bce0d92)
 
 
 ### 일정관리
