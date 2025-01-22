@@ -112,6 +112,8 @@ https://www.notion.so/1530b7d27c0d800aa5d0cbd22f36a830
 - *Road Map, Kanban* 활용
 
 *Road Map*
+![image](https://github.com/user-attachments/assets/4c1cbd0a-0cc2-4ddb-a49f-a83611fbb24c)
+
 
 *Kanban*
 ![image](https://github.com/user-attachments/assets/1333a682-235b-4e77-8388-62a3816f9927)
