@@ -138,7 +138,7 @@ https://www.erdcloud.com/d/PoKgPpyiHAvGwdsNA
 
 ## 프로젝트 관리
 
-### 백로그
+### 백로그 작성
 ![image](https://github.com/user-attachments/assets/9951f1a5-0d88-404e-bc39-a7c96799efec)
 
 <br></br>
