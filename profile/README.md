@@ -38,12 +38,8 @@
 
 ---
 
-# 개발 환경
-
-### 🛠 개발 도구
-
----
 # System Architecture
+![Uploading _서비스 요청 흐름도.drawio (4).png…]()
 
 ---
 
