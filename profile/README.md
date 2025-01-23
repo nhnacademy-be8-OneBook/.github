@@ -9,8 +9,8 @@
 
 <div align="center" dir="auto">
   <div class="markdown-heading" dir="auto">
-    <h3 class="heading-element" dir="auto"> NHN Academy 8기 - OneBook 팀 </h3>
-<!--     <a id="user-content--nhn-academy-8기---OneBook-팀-" class="anchor" aria-label="Permalink:  NHN Academy 8기 - OneBook 팀"></a> -->
+<!--     <h3 class="heading-element" dir="auto"> NHN Academy 8기 - OneBook 팀 </h3> -->
+    <a id="user-content--nhn-academy-8기---OneBook-팀-" class="anchor" aria-label="Permalink:  NHN Academy 8기 - OneBook 팀"></a>
   </div>
   <markdown-accessiblity-table data-catalyst="">
     <table>
