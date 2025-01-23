@@ -61,42 +61,63 @@ https://www.notion.so/1530b7d27c0d800aa5d0cbd22f36a830
     <th></th>
     <th>Main</th>  
     <th>Develop</th>
+    <th>배포서버</th>
   </tr>
 
   <tr>
     <td>front-api_1</td>
     <td>8100</td>
     <td>8110</td>
+    <td>10110</td>
   </tr>
 
   <tr>
     <td>front-api_2</td>
     <td>8101</td>
     <td>8111</td>
+    <td>10111</td>
   </tr>
 
   <tr>
     <td>gateway-api</td>
     <td>8200</td>
     <td>8210</td>
+    <td>10112</td>
   </tr>
 
   <tr>
     <td>eureka-api</td>
     <td>8300</td>
     <td>8310</td>
+    <td>10113</td>
   </tr>
 
   <tr>
-    <td>authentication-api</td>
+    <td>authentication-api_1</td>
     <td>8400</td>
     <td>8410</td>
+    <td>10114</td>
   </tr>
 
+  <tr>
+    <td>authentication-api_2</td>
+    <td>8400</td>
+    <td>8410</td>
+    <td>10115</td>
+  </tr>
+  
   <tr>
     <td>task-api_1</td>
     <td>8500</td>
     <td>8510</td>
+    <td>10116</td>
+  </tr>
+  
+  <tr>
+    <td>task-api_2</td>
+    <td>8400</td>
+    <td>8410</td>
+    <td>10117</td>
   </tr>
 </table>
 
