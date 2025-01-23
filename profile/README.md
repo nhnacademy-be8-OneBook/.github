@@ -2,7 +2,6 @@
 **프로젝트 기간 : 2024.12.03. ~ 2025.01.24**
 
 > 한 권의 책, 무한한 이야기
-> 
 
 ---
 # 팀원
@@ -28,9 +27,9 @@
     </table>
 </markdown-accessiblity-table>
 </div>
+---
 
 <br><br>
----
 
 #  OneBook_Repository
 
