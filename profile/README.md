@@ -43,7 +43,7 @@
 <!-- - [GATEWAY](https://github.com/nhnacademy-be8-OneBook/Onebook-gateway) -->
 <!-- - [EUREKA](https://github.com/nhnacademy-be8-OneBook/Onebook-eureka) -->
 
-# 프로젝트 아키텍처
+## 프로젝트 아키텍처
 ![Image](https://github.com/user-attachments/assets/43eda360-4f79-4c9e-9d82-c9d303e81bfb)
 > - MSA 구조로 각 서비스가 독립적으로 배포 및 관리되며, IaaS로 NHN Cloud를 활용했습니다.
 > <br></br>
@@ -62,17 +62,17 @@
 
 ---
 
-# ER-Diagram
+## ER-Diagram
 https://www.erdcloud.com/d/PoKgPpyiHAvGwdsNA
 
 ---
 
-# BackLog
+## BackLog
 https://www.notion.so/1530b7d27c0d800aa5d0cbd22f36a830
 
 ---
 
-# CI/CD
+## CI/CD
 ### Port
 <table>
   <tr>
@@ -141,7 +141,7 @@ https://www.notion.so/1530b7d27c0d800aa5d0cbd22f36a830
 
 ---
 
-# 프로젝트 관리
+## 프로젝트 관리
 
 ### 스크럼
 ![image](https://github.com/user-attachments/assets/4436df46-d967-418b-9cdd-e1ea55b5b7eb)
@@ -169,10 +169,10 @@ https://www.notion.so/1530b7d27c0d800aa5d0cbd22f36a830
 
 ---
 
-# 개인별 구현 상세내역
+## 개인별 구현 상세내역
 
 ---
-# ⚙ 기술 스택
+## ⚙ 기술 스택
 ### Language
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
