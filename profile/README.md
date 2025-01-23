@@ -41,7 +41,8 @@
 # System Architecture
 ![Image](https://github.com/user-attachments/assets/43eda360-4f79-4c9e-9d82-c9d303e81bfb)
 >
-> - MSA 구조로 각 서비스가 독립적으로 배포 및 관리되며, IaaS로 NHN Cloud를 활용했습니다.
+> - 환경: MSA 구조로 각 서비스가 독립적으로 배포 및 관리되며, IaaS로 NHN Cloud를 활용했습니다.
+>   <br>
 > - Nginx
 >    - 사용자의 요청이 Nginx로 들어오면, Nginx는 라운드 로빈 방식으로 프론트 서버들에 요청을 로드밸런싱 해줍니다.
 >    - 로드 밸런싱과 서버 이중화로 트래픽이 분산되고, 사용자와 서버 간 통신은 SSL로 암호화되어 보안성을 높입니다.
