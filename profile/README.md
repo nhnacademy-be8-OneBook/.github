@@ -166,31 +166,15 @@ https://www.notion.so/1530b7d27c0d800aa5d0cbd22f36a830
 ### Framework
 ![Spring](https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/spring%20security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/spring%20cloud-3693F3?style=flat&logo=googlecloud&logoColor=white)
-![Spring Gateway](https://img.shields.io/badge/spring%20gateway-3693F3?style=flat&logo=googlecloud&logoColor=white)
-![Spring Eureka](https://img.shields.io/badge/spring%20eureka-3693F3?style=flat&logo=googlecloud&logoColor=white)
-</br>
-![SpringDataJPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=Spring&logoColor=white)
-![QueryDSL](https://img.shields.io/badge/QueryDSL-6DB33F?style=flat&logo=Spring&logoColor=white)
-![BootStrap5](https://img.shields.io/badge/BootStrap5-6DB33F?style=flat&logo=Spring&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-6DB33F?style=flat&logo=Spring&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-6DB33F?style=flat&logo=Spring&logoColor=white)
-![Logback](https://img.shields.io/badge/Logback-6DB33F?style=flat&logo=Spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-6DB33F?style=flat&logo=Spring&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-6DB33F?style=flat&logo=Spring&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-6DB33F?style=flat&logo=Spring&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-6DB33F?style=flat&logo=Spring&logoColor=white)
-![NHN Cloud](https://img.shields.io/badge/NHN%20Cloud-6DB33F?style=flat&logo=Spring&logoColor=white)
-
+![BootStrap5](https://img.shields.io/badge/BootStrap5-4430A1?style=flat&logo=Spring&logoColor=white)
 
 ### Database
 ![MySQL](http://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![Redis](http://img.shields.io/badge/Redis-4430A1?style=flat&logo=Redis&logoColor=white)
+![Redis](http://img.shields.io/badge/Redis-C71A36?style=flat&logo=Redis&logoColor=white)
 
 
 ### Build Tool
-![ApacheMaven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=ApacheMaven&logoColor=white)
+![ApacheMaven](https://img.shields.io/badge/Maven-000000?style=flat&logo=ApacheMaven&logoColor=white)
 
 ### CI/CD
 ![Github Action](https://img.shields.io/badge/Github%20Action-2088FF?style=flat&logo=githubactions&logoColor=white)
