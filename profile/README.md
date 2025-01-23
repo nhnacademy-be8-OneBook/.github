@@ -26,7 +26,7 @@
           <th><a href="https://github.com/Hodu-moon"><img src="https://github.com/Hodu-moon.png" width="100px" style="max-width: 100%;"><br>문영호</a></th>
           <th><a href="https://github.com/tndus165"> <img src="https://github.com/tndus165.png" width="100px" style="max-width: 100%;"><br>박수연</a></th>
           <th><a href="https://github.com/pangpangE123"> <img src="https://github.com/pangpangE123.png" width="100px" style="max-width: 100%;"><br>변상우</a></th>
-          <th><a href="https://github.com/LDS4546"> <img alt="Image" src="https://github.com/user-attachments/assets/be611437-bb77-4d31-820d-ead904a9d644" width="80px" style="max-width: 100%;"><br>이동수</a></th>
+          <th><a href="https://github.com/LDS4546"> <img alt="Image" src="https://github.com/user-attachments/assets/fef3cc3c-d29d-453e-a446-06c2675d9cd6" width="68px" style="max-width: 100%;"><br>이동수</a></th>
         </tr>
       </thead>
     </table>
