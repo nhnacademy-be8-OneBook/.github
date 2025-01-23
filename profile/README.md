@@ -43,7 +43,7 @@
 <!-- - [GATEWAY](https://github.com/nhnacademy-be8-OneBook/Onebook-gateway) -->
 <!-- - [EUREKA](https://github.com/nhnacademy-be8-OneBook/Onebook-eureka) -->
 
-# System Architecture
+# 프로젝트 아키텍처
 ![Image](https://github.com/user-attachments/assets/43eda360-4f79-4c9e-9d82-c9d303e81bfb)
 > - MSA 구조로 각 서비스가 독립적으로 배포 및 관리되며, IaaS로 NHN Cloud를 활용했습니다.
 > <br></br>
@@ -141,9 +141,9 @@ https://www.notion.so/1530b7d27c0d800aa5d0cbd22f36a830
 
 ---
 
-# Project Management
+# 프로젝트 관리
 
-### Scrum
+### 스크럼
 ![image](https://github.com/user-attachments/assets/4436df46-d967-418b-9cdd-e1ea55b5b7eb)
 
 ![image](https://github.com/user-attachments/assets/98c411e9-1629-4e1e-b36a-d6be5bce0d92)
@@ -162,7 +162,7 @@ https://www.notion.so/1530b7d27c0d800aa5d0cbd22f36a830
 
 ---
 
-### Test Coverage
+### 테스트 커버리지
 
 - 정적 코드 분석 도구인 `SonarQube`를 활용
 - 목표 : Coverage 80%
