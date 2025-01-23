@@ -1,7 +1,7 @@
 # 📖 OneBook
-**프로젝트 기간 : 2024.12.03. ~ 2025.01.24**
 > 한 권의 책, 무한한 이야기
-> 
+**프로젝트 기간 : 2024.12.03. ~ 2025.01.24**
+
 
 <div class="markdown-heading" dir="auto>
   <h2 tabindex="-1" class="heading-element" dir="auto">프로젝트 소개</h2>
