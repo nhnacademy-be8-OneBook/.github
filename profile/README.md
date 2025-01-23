@@ -67,11 +67,6 @@ https://www.erdcloud.com/d/PoKgPpyiHAvGwdsNA
 
 ---
 
-## BackLog
-https://www.notion.so/1530b7d27c0d800aa5d0cbd22f36a830
-
----
-
 ## CI/CD
 ### Port
 <table>
@@ -142,6 +137,10 @@ https://www.notion.so/1530b7d27c0d800aa5d0cbd22f36a830
 ---
 
 ## 프로젝트 관리
+
+### 백로그
+![image](https://github.com/user-attachments/assets/9951f1a5-0d88-404e-bc39-a7c96799efec)
+
 
 ### 스크럼
 ![image](https://github.com/user-attachments/assets/4436df46-d967-418b-9cdd-e1ea55b5b7eb)
