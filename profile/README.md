@@ -151,6 +151,7 @@ https://www.notion.so/1530b7d27c0d800aa5d0cbd22f36a830
 ![Spring Eureka](https://img.shields.io/badge/spring%20eureka-3693F3?style=flat&logo=googlecloud&logoColor=white)
 </br>
 ![SpringDataJPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=Spring&logoColor=white)
+![BootStrap5](https://img.shields.io/badge/BootStrap-6DB33F?style=flat&logo=Spring&logoColor=white)
 ![BootStrap5](https://img.shields.io/badge/BootStrap-%20Data%20JPA-6DB33F?style=flat&logo=Spring&logoColor=white)
 
 
