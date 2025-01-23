@@ -35,7 +35,7 @@
 
 ---
 
-#  OneBook_Repository
+##  OneBook_Repository
 
 - [FRONT](https://github.com/nhnacademy-be8-OneBook/Onebook-frontapi)
 - [AUTHENTICATION](https://github.com/nhnacademy-be8-OneBook/Onebook-accountapi)
@@ -45,7 +45,7 @@
 
 ---
 
-# System Architecture
+## System Architecture
 ![Image](https://github.com/user-attachments/assets/43eda360-4f79-4c9e-9d82-c9d303e81bfb)
 > - MSA 구조로 각 서비스가 독립적으로 배포 및 관리되며, IaaS로 NHN Cloud를 활용했습니다.
 > <br></br>
@@ -64,17 +64,17 @@
 
 ---
 
-# ER-Diagram
+## ER-Diagram
 https://www.erdcloud.com/d/PoKgPpyiHAvGwdsNA
 
 ---
 
-# BackLog
+## BackLog
 https://www.notion.so/1530b7d27c0d800aa5d0cbd22f36a830
 
 ---
 
-# CI/CD
+## CI/CD
 ### Port
 <table>
   <tr>
