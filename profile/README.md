@@ -3,6 +3,10 @@
 
 > 한 권의 책, 무한한 이야기
 
+<div class="markdown-heading" dir="auto>
+  <h2 tabindex="-1" class="heading-element" dir="auto">프로젝트 소개</h2>
+</div>
+<p>Java 기반의 Spring Framework를 활용한 인터넷 서점 쇼핑몰</p>
 ---
 # 팀원
 
@@ -29,8 +33,6 @@
 </div>
 
 ---
-
-<br><br>
 
 #  OneBook_Repository
 
