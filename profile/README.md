@@ -4,16 +4,12 @@
 ---
 
 # 프로젝트 소개
-## 프로젝트 기간
+### 프로젝트 기간
 - 2024.12.03. ~ 2025.01.24
 
+### 프로젝트 설명
 
-<div class="markdown-heading" dir="auto>
-  <h2 tabindex="-1" class="heading-element" dir="auto">프로젝트 소개</h2>
-</div>
-<p>Java 기반의 Spring Framework를 활용한 인터넷 서점 쇼핑몰</p>
----
-# 팀원
+## 팀원
 
 <div align="center" dir="auto">
   <div class="markdown-heading" dir="auto">
