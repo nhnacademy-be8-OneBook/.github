@@ -141,6 +141,7 @@ https://www.erdcloud.com/d/PoKgPpyiHAvGwdsNA
 ### 백로그
 ![image](https://github.com/user-attachments/assets/9951f1a5-0d88-404e-bc39-a7c96799efec)
 
+***
 
 ### 스크럼
 ![image](https://github.com/user-attachments/assets/4436df46-d967-418b-9cdd-e1ea55b5b7eb)
