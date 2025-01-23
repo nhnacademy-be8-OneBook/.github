@@ -5,9 +5,10 @@
 
 # 프로젝트 소개
 ### 프로젝트 기간
-- 2024.12.03. ~ 2025.01.24
+2024.12.03. ~ 2025.01.24
 
 ### 프로젝트 설명
+Java 기반의 Spring Framework를 활용한 인터넷 서점 쇼핑몰
 
 ## 팀원
 
@@ -143,7 +144,7 @@ https://www.notion.so/1530b7d27c0d800aa5d0cbd22f36a830
 
 ---
 
-# Project Management
+## Project Management
 
 ### Scrum
 ![image](https://github.com/user-attachments/assets/4436df46-d967-418b-9cdd-e1ea55b5b7eb)
@@ -171,7 +172,7 @@ https://www.notion.so/1530b7d27c0d800aa5d0cbd22f36a830
 
 ---
 
-# 개인별 구현 상세내역
+## 개인별 구현 상세내역
 
 ---
 ## ⚙ 기술 스택
