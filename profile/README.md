@@ -5,7 +5,7 @@
 > 
 
 ---
-# 팀원
+# Team
 
 <div align="center" dir="auto">
   <div class="markdown-heading" dir="auto">
