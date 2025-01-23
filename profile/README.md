@@ -172,8 +172,16 @@ https://www.notion.so/1530b7d27c0d800aa5d0cbd22f36a830
 ![Spring Eureka](https://img.shields.io/badge/spring%20eureka-3693F3?style=flat&logo=googlecloud&logoColor=white)
 </br>
 ![SpringDataJPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=Spring&logoColor=white)
-![BootStrap5](https://img.shields.io/badge/BootStrap-6DB33F?style=flat&logo=Spring&logoColor=white)
-![BootStrap5](https://img.shields.io/badge/BootStrap-%20Data%20JPA-6DB33F?style=flat&logo=Spring&logoColor=white)
+![QueryDSL](https://img.shields.io/badge/QueryDSL-6DB33F?style=flat&logo=Spring&logoColor=white)
+![BootStrap5](https://img.shields.io/badge/BootStrap5-6DB33F?style=flat&logo=Spring&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-6DB33F?style=flat&logo=Spring&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-6DB33F?style=flat&logo=Spring&logoColor=white)
+![Logback](https://img.shields.io/badge/Logback-6DB33F?style=flat&logo=Spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-6DB33F?style=flat&logo=Spring&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-6DB33F?style=flat&logo=Spring&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-6DB33F?style=flat&logo=Spring&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-6DB33F?style=flat&logo=Spring&logoColor=white)
+![NHN Cloud](https://img.shields.io/badge/NHN%20Cloud-6DB33F?style=flat&logo=Spring&logoColor=white)
 
 
 ### Database
