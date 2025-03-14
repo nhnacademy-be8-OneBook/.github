@@ -63,6 +63,10 @@
 ---
 
 ## CI/CD
+![CICD_test](https://github.com/user-attachments/assets/ce44391b-6523-43d8-afa0-c00d41c1bfed)
+
+---
+
 ### Port
 <table>
   <tr>
@@ -167,10 +171,6 @@ https://www.erdcloud.com/d/PoKgPpyiHAvGwdsNA
 
 - 정적 코드 분석 도구인 `SonarQube`를 활용
 - 목표 : Coverage 80%
-
----
-
-## 개인별 구현 상세내역
 
 ---
 ## ⚙ 기술 스택
