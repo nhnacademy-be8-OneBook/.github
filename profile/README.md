@@ -35,7 +35,7 @@
 
 ---
 
-#  OneBook_Repository
+## OneBook_Repository
 
 - [FRONT](https://github.com/nhnacademy-be8-OneBook/Onebook-frontapi)
 - [AUTHENTICATION](https://github.com/nhnacademy-be8-OneBook/Onebook-accountapi)
