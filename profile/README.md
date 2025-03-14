@@ -1,8 +1,5 @@
 # 📖 OneBook
-# 한 권의 책, 무한한 이야기
-
-![홈2 PNG](https://github.com/user-attachments/assets/aadac563-6d43-4644-a6c5-2d203b5662aa)
-
+한 권의 책, 무한한 이야기
 
 ---
 
