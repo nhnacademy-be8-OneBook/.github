@@ -20,7 +20,7 @@
     <table>
       <thead>
         <tr>
-          <th><a href="https://github.com/kimseonj"><img alt="Image" src="https://github.com/user-attachments/assets/1c3c5027-ccf3-4e8f-9ccf-1918fd710692" width="80px" style="max-width: 100%;"><br>김선준</a></th>
+          <th><a href="https://github.com/kimseonj"><img alt="Image" src="https://github.com/user-attachments/assets/b561242f-4ba0-48c2-a896-0ddf22da0ac2" width="80px" style="max-width: 100%;"><br>김선준</a></th>
           <th><a href="https://github.com/tnvs99"><img alt="Image" src="https://github.com/user-attachments/assets/b594a38f-4f10-49fa-a8f3-40c772c616c7" width="85px" style="max-width: 100%;"><br>김영훈</a></th>
           <th><a href="https://github.com/Joo-v7"><img alt="Image" src="https://github.com/user-attachments/assets/9587c485-99ad-4ecc-b00c-2e09f1721195" width="80px" style="max-width: 100%;"><br>김주혁</a></th>
           <th><a href="https://github.com/Hodu-moon"><img src="https://github.com/Hodu-moon.png" width="100px" style="max-width: 100%;"><br>문영호</a></th>
