@@ -25,7 +25,7 @@
           <th><a href="https://github.com/Joo-v7"><img alt="Image" src="https://github.com/user-attachments/assets/9587c485-99ad-4ecc-b00c-2e09f1721195" width="80px" style="max-width: 100%;"><br>김주혁</a></th>
           <th><a href="https://github.com/Hodu-moon"><img src="https://github.com/Hodu-moon.png" width="100px" style="max-width: 100%;"><br>문영호</a></th>
           <th><a href="https://github.com/tndus165"> <img src="https://github.com/tndus165.png" width="100px" style="max-width: 100%;"><br>박수연</a></th>
-          <th><a href="https://github.com/pangpangE123"> <img src="https://github.com/pangpangE123.png" width="100px" style="max-width: 100%;"><br>변상우</a></th>
+          <th><a href="https://github.com/pangpangE123"> <img alt="Image" src="https://github.com/user-attachments/assets/21f2a6cf-12df-4ffa-9dbe-838cbb6e3e87" width="80px" style="max-width: 100%;"><br>변상우</a></th>
           <th><a href="https://github.com/LDS4546"> <img alt="Image" src="https://github.com/user-attachments/assets/fef3cc3c-d29d-453e-a446-06c2675d9cd6" width="68px" style="max-width: 100%;"><br>이동수</a></th>
         </tr>
       </thead>
